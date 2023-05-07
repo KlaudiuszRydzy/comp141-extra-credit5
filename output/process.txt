@@ -1,0 +1,5 @@
+    PID TTY          TIME CMD
+  12804 pts/0    00:00:00 bash
+  13705 pts/0    00:00:00 main.sh
+  13713 pts/0    00:00:00 ps
+  13714 pts/0    00:00:00 head
